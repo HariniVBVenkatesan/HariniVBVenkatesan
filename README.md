@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Harini Venkatesan
 
-### 💻 Computer Science Student | 🤖 AI Enthusiast | 🌐 Full-Stack Developer | 🔐 Cybersecurity Explorer
+### 💻 Computer Science Student | 🤖 AI Enthusiast | 🌐 Full-Stack Developer | 🔌 Embedded Systems Explorer
 
 *"Turning ideas into code, and code into solutions."*
 
@@ -20,7 +20,7 @@
 
 🌐 Interested in Full-Stack Development and building scalable applications
 
-🔐 Exploring Cybersecurity and Digital Forensics
+🔌 Exploring Embedded Systems and IoT Technologies
 
 📚 Always learning, experimenting, and improving one project at a time
 
@@ -96,17 +96,7 @@ Hands-on data analysis, visualization, and machine learning experiments using Py
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HariniVBVenkatesan&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HariniVBVenkatesan&theme=tokyonight"/>
-
-</p>
-
----
 
 ## 💡 Fun Facts
 
@@ -142,7 +132,6 @@ Hands-on data analysis, visualization, and machine learning experiments using Py
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
 
 **Happy Coding! 🚀**
 
