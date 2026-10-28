@@ -91,9 +91,6 @@ A digital forensics and cybersecurity project focused on secure investigation wo
 ### 🤖 GenAI Projects
 Building intelligent applications using Retrieval-Augmented Generation (RAG), LLMs, and modern AI tools.
 
-### 📊 Data Analytics Lab
-Hands-on data analysis, visualization, and machine learning experiments using Python.
-
 ---
 
 
